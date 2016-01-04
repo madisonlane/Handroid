@@ -20,3 +20,25 @@ sudo python handroid.py
 *handroid-with-wii.py* - Program that uses wii remote to control individual servo positions.  Used to obtain the servo position values in the handroid.py program.
 
 *handroid-servo-tester.py* - Program that cycles all servos between min and max positions.  Used to test that servos and servo hat is working properly.  This is a modified version of the servohat PWM test program that comes from Adafruit's python libraries found on github.
+
+# Materials
+
+- Vilros Raspberry Pi2 Kit (includes breakout board, ribbon cable, T-breakout, 2 switches, jumper wires, 330 ohm resistors, power cables) 
+  - Logitech Wireless keyboard
+  - USB Wifi
+  - USB Bluetooth
+- Adafruit 16-channel ServoHat PWM module mini kit
+- 2 x Mini Pan-Tilt Kit, assembled with servos
+- 5V 4A switching power supply
+- 2 x Micro servos
+- 1 pack of 2 brass M2.5 standoffs for Pi HATs
+- 1 GPIO stacking header for Pi 2
+
+- Hot glue gun & glue
+- Bag of 1/2" straws
+- Dental tape
+- 1 box Sculpy polymer clay
+- 1/2" x 4" x 8' pine lumber
+- 12" x 12" x 3" wood box (for base)
+- 2 x small wood screws
+
